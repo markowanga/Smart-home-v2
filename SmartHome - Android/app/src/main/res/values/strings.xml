@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="server_name">192.168.1.1:1337</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_logout">Wyloguj</string>
+    <string name="action_map">Mapa</string>
+    <string name="action_history">Historia</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="openGateButtonLabel">Otwórz bramę</string>
+    <string name="showMapLabelButton">Pokaż mapę</string>
+    <string name="openWicketLabelButton">Otwórz furtkę</string>
+    <string name="startAnalyzeLocation">Smart open - start</string>
+    <string name="stopAnalyzeLocation">Smart open - stop</string>
+
+    <string name="httpSenderToastResponse">Połączenie: </string>
+
+    <string name="action_show_map">Pokaż mapę z punktami</string>
+    <string name="action_show_history">Pokaż historię</string>
+
+    <string name="history_activity_name">Historia</string>
+    <string name="wicket_letter">F</string>
+    <string name="gate_letter">B</string>
+    <string name="title_activity_nav">NavActivity</string>
+</resources>

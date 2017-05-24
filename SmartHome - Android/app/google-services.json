@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "209964378820",
+    "firebase_url": "https://smarthometraining-f5c9d.firebaseio.com",
+    "project_id": "smarthometraining-f5c9d",
+    "storage_bucket": "smarthometraining-f5c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209964378820:android:1fc8d1e7420609d2",
+        "android_client_info": {
+          "package_name": "com.example.marcin.smarthomeandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209964378820-k2tqqhq9trb6efi3hdcdeoi39kgmr24j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGoDe6bXdgL2pyTXgNo1MlGtcqJ7xxU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
