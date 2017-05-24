@@ -7,3 +7,5 @@ Jej poprzednikiem jest [Smart-home](https://github.com/markowanga/Smart-home). N
 * zdecydowanie bogatszy i urozmaicony interface
 * obsługę logowania użytkowników
 * obsługę systemu z poziomu przeglądarki internetowej
+
+<img src="Screenshot_login.png" width="200"/> <img src="Screenshot_menu.png" width="200"/> <img src="Screenshot_control.png" width="200"/>
